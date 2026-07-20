@@ -1,0 +1,21 @@
+{
+    "name": "Medicine Locator",
+    "short_name": "Medicine Locator",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0D9488",
+    "theme_color": "#0D9488",
+    "description": "Offline medicine inventory app with SQLite",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512"
+        }
+    ]
+}
